@@ -1,0 +1,5 @@
+{
+  "plugins": ["office-addins"],
+  "extends": ["plugin:office-addins/react"],
+  "node": true
+}
